@@ -1,0 +1,15 @@
+sweet 100 occupied
+sweet 101 empty
+sweet 103 empty
+sweet 104 empty
+sweet 105 empty
+single 201 occupied
+single 202 empty
+single 203 empty
+single 204 empty
+single 205 empty
+double 301 empty
+double 302 empty
+double 303 empty
+double 304 empty
+double 305 empty
